@@ -15,5 +15,5 @@ public class Fabric {
         return this.pricePerMeter * meters;
     }
 
-    // Getters and setters can be added here
+
 }
