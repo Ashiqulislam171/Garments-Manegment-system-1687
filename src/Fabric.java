@@ -15,5 +15,20 @@ public class Fabric {
         return this.pricePerMeter * meters;
     }
 
+    // Getter methods
+    public String getId() {
+        return id;
+    }
 
+    public String getType() {
+        return type;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public double getPricePerMeter() {
+        return pricePerMeter;
+    }
 }
