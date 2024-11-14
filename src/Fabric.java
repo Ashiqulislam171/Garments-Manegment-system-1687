@@ -15,7 +15,7 @@ public class Fabric {
         return this.pricePerMeter * meters;
     }
 
-    // Getter methods
+   
     public String getId() {
         return id;
     }
