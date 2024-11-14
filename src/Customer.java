@@ -24,5 +24,5 @@ public class Customer {
         return orders;
     }
 
-    // Getters and setters can be added here
+    
 }
