@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Fabric cotton = new Fabric("F001", "Cotton", "White", 10.0);
-        Fabric polyester = new Fabric("F002", order"Polyester", "Blue", 8.5);
+        Fabric polyester = new Fabric("F002", "Polyester", "Blue", 8.5);
 
 
         Garment tshirt = new Garment("G001", "T-shirt", "Casual T-shirt", "M", "Red", 20.0, 50);
