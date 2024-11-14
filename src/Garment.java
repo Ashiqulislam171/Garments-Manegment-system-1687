@@ -25,5 +25,5 @@ public class Garment {
         return this.price * (1 - discountPercentage / 100);
     }
 
-    // Getters and setters can be added here
+    
 }
