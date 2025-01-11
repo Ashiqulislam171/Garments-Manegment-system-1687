@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Customer {
-    private String customerId;
+    // private String customerId;
     private String name;
     private String email;
     private String phone;
